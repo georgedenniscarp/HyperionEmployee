@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HyperionEmployee
-- 👀 I’m interested in playing games
-- 🌱 I’m currently learning Python and Lua
+- 👋 Hi, I’m George Carpenter
+- 👀 I’m interested in Physics, Programming and Reading 
+- 🌱 I’m currently learning Python and Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: georgedenniscarp2007@gmail.com
 
