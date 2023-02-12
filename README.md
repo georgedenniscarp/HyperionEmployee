@@ -1,4 +1,0 @@
-- 👋 Hi, I’m George Carpenter
-- 👀 I’m interested in Physics, Programming and Statistics
-- 🌱 I’m currently learning Python and R
-- 📫 How to reach me: georgedenniscarp2007@gmail.com
